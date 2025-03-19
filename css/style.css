@@ -1,19 +1,245 @@
-
+*{
+    width: 1280px;
+    margin: 0 auto;
+    text-align: center;
+}
+body{
+    background-color: antiquewhite;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+li{
+    font-size: 22px;
+    margin-right: 50px;
+    display: inline;
+}
+.info{
+    margin-top: 60px;
+}
+h1{
+    text-align: start;
+    font-size: 60px;
+    color: white;
+    margin-top: 15px;
+    height: 300px; 
+    background-image: url(../img/космос_для_проєкту_1.png);
+    background-repeat: repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+h2{
+    color: lime;
+    font-size: 60px;
+}
+.gol{
+    margin-bottom: 30px;
+    border-radius: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
 .inf{
-    float: right;
     color: aqua;
     font-size: 40px;
 }
-h2{
+.arhinf{
+    color: whitesmoke;
+}
+.borderbottom{
+    
+    border-bottom: 3px solid black;
+}
+.gol{
+    margin-bottom: 30px;
+    background-color: lightslategray;
+    height: 300px;
+}
+h3{
     color: yellow;
     margin-bottom: 20px;
     font-size: 50px;
     text-align: center;
 }
-body{
+.types{
+    background-image: url(../img/Без\ названия.jpg);
+    font-size: 40px;
+    background-size: cover;
+    margin-top: 30px;
+    background-color: darkgreen;
+    border-radius: 20px;
+    text-align: none;
+    height: 1800px;
+}
+img.part1{
+    margin-bottom: 40px;
+    width: 200px;
+}
+img.part2{
+    width: 200px;
+    margin-top: 40px;
+}
+.float1{
+    font-size: 40px;
+    width: 640px;
+    float: left;
+}
+.float2{
+    font-size: 40px;
+    width: 640px;
+    float: right;
+}
+li{
+    font-size: 40px;
+}
+ul.part2{
+    margin-right: 200px;
+}
+.part1{
+    color: orange;
+    margin-left: 250px;
+    text-align: start;
+    display: inline-block;
+    float: left;
+    clear: left;
+}
+.part2{
+    color: orange;
+    text-align: end;
+    clear: right;
+    margin-right: 250px;
+    float: right;
+}
+.smile{
     text-align: center;
+    margin-top: 30px;
+    margin-right: 250px;
+}
+h4{
+    color: black;
+}
+.ar1{
+    background-image: url(../img/архетипи.webp);
+    background-size: cover;
+}
+.arh1{
+    margin-right: 20px;
+    text-align: center;
+}
+.arh2{
+    margin-right: 20px;}
+.arh3{
+    margin-right: 20px;
+}
+.arh4{    
+    margin-right: 20px;
+}
+.arh5{
+    margin-right: 20px;
+}
+.arh6{
+    margin-right: 20px;
+}
+.arh7{
+    margin-right: 20px;
+}
+.arh8{
+    margin-right: 20px;
+}
+.arh9{
+    margin-right: 20px;
+}
+.arh10{
+    margin-right: 20px;
+}
+.arh11{
+    margin-right: 20px;
+}
+.arh12{
+    margin-right: 20px;
+}
+a{
+    font-size: 22px;
+}
+.arh1 .arh2 .arh3 .arh4 .arh5 .arh6 .arh7 .arh8 .arh9 .arh10 .arh11 .arh12 {
+    font-size: 60px;
+    display: inline;
+    background-color: black;
+}
+.info{
+    color: white;
+    font-size: 40px;
+    border-radius: 20px;
+}
+.ar1{
+    color: aliceblue;
+    border-radius: 20px;
+    font-size: 40px;
     background-color: lightslategray;
 }
-img{
+.myarh{
+    margin-top: 30px;
+    border-radius: 20px ;
+    background-color: brown;
+}
+.h5{
+    font-size: 60px;
+    color: lime;
+}
+ol{
+    color: aqua;
+}
+.center{
+    font-size: 25px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.m1{
+    margin-right: 150px;
+}
+.img{
+    margin-right: 30px;
+    margin-left: 30px;
+    width: 150px;
+}
+.end{
+    margin-top: 30px;
+    background-color: blueviolet;
+    border-radius: 10px;
+}
+.h6-1{
     float: left;
+    font-size: 30px;
+    clear:left;
+    display: inline;
+    width: 640px;
+}
+.h6-2{
+    color: lime;
+    width: 640px;
+    display: inline;
+    float: right;
+    clear: right;
+    font-size: 30px;
+}
+.main5{
+    color: yellow;
+    font-size: 30px;
+    margin-right: 90px;
+    display: inline;
+}
+.footer3{
+    margin-left: 40px;
+}
+.footer1{
+    margin-top: 30px;
+    color: yellow;
+    font-size: 30px;
+    margin-right: 75px;
+}
+.footer2{
+    margin-right: 75px;
+}
+.footer5{
+    margin-right: 75px;
 }
